@@ -8,4 +8,8 @@ Gambar 3: Hasil Load Testing
 
 ### Lampiran Screenshot Performance Tesing (JMeter)
 ![all_student_pre_profiling.png](img/all_student_pre_profiling.png)![all_student_post_profiling.png](img/all_student_post_profiling.png)
-Gambar 4 & 5: Perbandingan method GetAllStudentWithCourse 
+Gambar 4 & 5: Perbandingan pre-post refactor method GetAllStudentWithCourse 
+![join_student_pre_profiling.png](img/join_student_pre_profiling.png)![join_student_post_profiling.png](img/join_student_post_profiling.png)
+Gambar 6 & 7: Perbandingan pre-post refactor method joinStudentNames
+
+
